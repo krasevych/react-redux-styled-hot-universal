@@ -20,3 +20,21 @@ The starter boilerplate includes the following technologies:
 | [Redux Immutable](https://github.com/gajus/redux-immutablejs)                     | Redux & Immutable integration                                                          |
 | [React Router Redux](https://github.com/reactjs/react-router-redux)               | Simple bindings to keep react-router and redux in sync                                        |
 | [ESLint](http://eslint.org)                                                       | The pluggable linting utility for JavaScript and JSX                                            |
+
+##Installation
+
+```bash
+npm install
+```
+
+## Running Dev Server
+
+```bash
+npm run dev:start
+```
+
+## Running Prod Server
+
+```bash
+npm run prod:start
+```
