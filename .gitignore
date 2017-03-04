@@ -1,0 +1,6 @@
+yarn.lock
+react-redux-styled-hot-universal.iml
+.idea/
+node_modules/
+static/assets
+static/server

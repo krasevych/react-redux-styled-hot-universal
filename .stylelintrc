@@ -1,0 +1,10 @@
+{
+  "extends": "stylelint-config-standard",
+  "plugins": [
+    "stylelint-selector-no-utility"
+  ],
+  "rules": {
+    "primer/selector-no-utility": true,
+    "rule-nested-empty-line-before": false
+  }
+}
