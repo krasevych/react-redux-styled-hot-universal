@@ -1,2 +1,2 @@
-# react-redux-styled-hot-universal
-react boilerplate used best practices and focus on performance
+# React Redux Styled Hot Universal
+React boilerplate, used best practices and focus on performance
