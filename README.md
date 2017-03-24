@@ -22,7 +22,7 @@ The starter boilerplate includes the following technologies:
 | [ESLint](http://eslint.org)                                                       | The pluggable linting utility for JavaScript and JSX                                            |
 | [Yarn](https://yarnpkg.com) | Fast, reliable and secure dependency management |
 
-##Installation
+## Installation
 
 ```bash
 yarn install
